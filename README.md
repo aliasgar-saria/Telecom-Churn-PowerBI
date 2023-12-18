@@ -1,6 +1,8 @@
 # Telecom-Churn-PowerBI
 Power BI Dashboard for Telecom Churn Analysis
 
+![Report_Page_1](https://github.com/aliasgar-saria/Telecom-Churn-PowerBI/assets/54890369/35c53b03-4659-4641-a61b-281ced07753b)
+
 Objective: Apply Power BI skills to analyze customer churn in a real-world scenario. Focus on understanding and reducing churn for a subscription-based telecom company, Databel.
 
 Approach:
