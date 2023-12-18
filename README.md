@@ -9,7 +9,7 @@ Determine reasons behind churn rates and strategies to mitigate them.
 Develop measures and calculated columns for detailed analysis.
 Create visually appealing report pages to present findings.
 
-Project Summary:
+Summary:
 Utilized Databel's telecom dataset with 29 customer columns to examine churn.
 Churn rate, a key business metric, is pivotal in customer retention strategies.
 Insights from Databel’s data:
@@ -21,8 +21,5 @@ Users with unlimited data plans and low data usage tend to churn more.
 High churn in California among those making international calls without a plan.
 Frequent customer service contacts correlate with a 54% churn rate in direct debit users.
 
-Strategic Recommendations:
-Propose plan adjustments for customers with underused international plans.
-Examine direct debit payment processes to address associated high churn rates.
 
 Case Study: https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi
