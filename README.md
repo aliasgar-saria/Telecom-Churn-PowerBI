@@ -22,6 +22,3 @@ Group contracts with six members have the lowest churn.
 Users with unlimited data plans and low data usage tend to churn more.
 High churn in California among those making international calls without a plan.
 Frequent customer service contacts correlate with a 54% churn rate in direct debit users.
-
-
-Case Study: https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi
